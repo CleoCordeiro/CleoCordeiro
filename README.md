@@ -6,8 +6,8 @@
 
 <div>
 <a href="https://github.com/CleoCordeiro">
-  <img height="160en" src="https://github-readme-stats.vercel.app/api?username=cleocordeiro&count_private=true&show_icons=true&theme=dracula" />
-  <img height="160en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleocordeiro&count_private=true&show_icons=true&theme=dracula&layout=compact" />
+  <img height="170en" src="https://github-readme-stats.vercel.app/api?username=cleocordeiro&count_private=true&show_icons=true&theme=dracula" />
+  <img height="170en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleocordeiro&count_private=true&show_icons=true&theme=dracula&layout=compact" />
 </a>
 </div>
 
