@@ -24,5 +24,6 @@
 
 
 
-###Sobre Mim
+### Sobre Mim
+
 Sou profissional na empresa Compass.UOL atuando com QA, apaixonado por tecnologia e dedicado ao aprimoramento contínuo na área de desenvolvimento de sistemas e softwares. Atuo como membro do grupo de pesquisa Bioinformática, Ômicas e Desenvolvimento - BIOD-UFPA, onde aplico meus conhecimentos e habilidades em prol do avanço da Bioinformática.
