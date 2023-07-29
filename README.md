@@ -24,9 +24,5 @@
 
 
 
-### Mais sobre min
-
-Estágiario em QA na empresa Compass.UOL
-
-Membro do grupo de pesquisa Bioinformática, Ômicas e Desenvolvimento - BIOD-UFPA,
-onde atua na área de desenvolvimento de sistemas e softwares, com linha de pesquisa voltada para a Bioinformática
+###Sobre Mim
+Sou profissional na empresa Compass.UOL atuando com QA, apaixonado por tecnologia e dedicado ao aprimoramento contínuo na área de desenvolvimento de sistemas e softwares. Atuo como membro do grupo de pesquisa Bioinformática, Ômicas e Desenvolvimento - BIOD-UFPA, onde aplico meus conhecimentos e habilidades em prol do avanço da Bioinformática.
